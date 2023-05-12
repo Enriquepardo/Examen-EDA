@@ -46,7 +46,7 @@
 		Classification report (zero_division=0)
 		Confusion matrix
 
-    **0Ejercicio 4**
+    **Ejercicio 4**
 
 		Ahora probamos la creación de otros modelo basados en árboles de decisión:
 
